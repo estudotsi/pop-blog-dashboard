@@ -1,0 +1,7 @@
+.btn{
+  background-color: var(--primary-color);
+}
+
+input[type = text], input[type = email]{
+  width: 100%;
+}
